@@ -22,9 +22,6 @@ main {
     transition: all .7s;
     border-radius: 50%;
 }
-.scroll-to-top span {
-    opacity: 1;
-}
 
 .scroll-to-top:hover {
     background-color: #6a6a6a;
